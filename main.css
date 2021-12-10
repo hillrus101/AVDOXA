@@ -1,0 +1,119 @@
+/* background css */
+
+body
+{
+     background-color: #3F3C40;
+}
+
+.darkBkg
+{
+     background-color: #231E26;
+}
+
+/* text css */
+.whiteText
+{
+     color: #ffffff;
+}
+
+h5
+{
+     font-size: 20px;
+     padding-bottom: 10px;
+}
+
+/* carousel css */
+
+.carouselPadding
+{
+     padding-left: 15px;
+     padding-top: 10px;
+}
+
+/* spacing and alignment */
+
+.center
+{
+     text-align: center;
+}
+
+.noPadding
+{
+     padding: 0;
+}
+
+.leftPad
+{
+     padding-left: 15px;
+}
+
+.topPad
+{
+     padding-top: 20px;
+}
+
+.marginTop
+{
+     margin-top: 25px;
+}
+
+.marginRight
+{
+     margin-right: auto;
+}
+
+.marginBottom
+{
+     margin-bottom: 25px;
+}
+
+.centerDiv
+{
+     display: flex;
+     justify-content: center;
+     align-items: center;
+}
+
+.imgSize
+{
+     width: 25px 50px;
+}
+/* decoration */
+
+.roundedEdges
+{
+     border-radius: 35px 35px 35px 35px;
+     border-style: solid;
+     border-width: 7px;
+     border-color: #A11FA1;
+}
+
+.logo
+{
+     width: 25%
+}
+
+.picBorder
+{
+     border-style: solid;
+     border-color: #A11FA1;
+     border-width: 7px;
+}
+
+
+/* hover command links */
+
+a:link
+{
+     color: #ffffff;
+}
+
+a:hover
+{
+     color: #F834CA;
+}
+
+a:visited
+{
+     color: #ffffff;
+}
